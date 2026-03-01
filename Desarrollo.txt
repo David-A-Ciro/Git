@@ -1,2 +1,3 @@
 Consola de desarrollo 
 Modificación de desarrollo
+Sincronización de la rama
